@@ -18,7 +18,7 @@ h1{
 .top-banner{
     background-repeat: no-repeat;
     background-image: url(images/top-banner.png);
-    border: 1px solid red;
+   
 }
 .orange-heilight{
     color: sandybrown;
@@ -39,7 +39,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    border: 1px solid red;
+   
 }
 .second-button{
     text-decoration: none;
